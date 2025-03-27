@@ -5,7 +5,8 @@ This repository documents the process of installing and configuring Suricata as 
 
 ## Repository Contents
 - **README.md:** Overview and instructions.
-- **
+- **advanced_rule_tuning.md**
+- **Network-based Tuned_rules.md**
 
 
 ## Installation Summary
