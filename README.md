@@ -5,7 +5,7 @@ This repository documents the process of installing and configuring Suricata as 
 
 ## Repository Contents
 - **README.md:** Overview and instructions.
-- **LICENSE:** Licensing information.
+- **
 
 
 ## Installation Summary
