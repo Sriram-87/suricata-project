@@ -20,6 +20,7 @@ This repository documents the process of installing and configuring Suricata as 
    sudo apt-get update
    sudo apt-get install suricata -y
 2. **Download and Install Emerging Threats Ruleset**
+    ```bash
     cd /tmp/ && curl -LO https://rules.emergingthreats.net/open/suricata-6.0.8/emerging.rules.tar.gz
     sudo tar -xvzf emerging.rules.tar.gz && sudo mv rules/*.rules /etc/suricata/rules/
     sudo chmod 640 /etc/suricata/rules/*.rules
@@ -39,4 +40,5 @@ This repository documents the process of installing and configuring Suricata as 
     af-packet:
     - interface: eth0
 4. **Restart the Suricata service:**
+    ```bash
     sudo systemctl restart suricata
