@@ -6,12 +6,7 @@ This repository documents the process of installing and configuring Suricata as 
 ## Repository Contents
 - **README.md:** Overview and instructions.
 - **LICENSE:** Licensing information.
-- **docs/**: Detailed documentation including installation and configuration guides, plus screenshots.
-  - **installation.md:** Step-by-step installation instructions.
-  - **configuration.md:** Overview of configuration changes.
-- **config/suricata.yaml:** Customized Suricata configuration file.
-- **scripts/run_suricata.sh:** Shell script to run Suricata.
-- **logs/**: A directory to store log files.
+
 
 ## Installation Summary
 1. **Install Suricata:**
